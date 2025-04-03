@@ -39,14 +39,6 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=p4w7ueyzoa9wodreb5v4cn1wh)">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=!%5BAlt%20text%5D(https://spotify-recently-played-readme.vercel.app/api?user=p4w7ueyzoa9wodreb5v4cn1wh)&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
   <img src="https://profile-counter.glitch.me/ViitoDev/count.svg?"  />
 </div>
 
