@@ -30,6 +30,7 @@
   <p>● Outras ferramentas</p>
   <img src="https://skillicons.dev/icons?i=git" />
 </div>
+<br>
 
 ---
 
