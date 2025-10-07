@@ -28,7 +28,7 @@
     src="https://skillicons.dev/icons?i=python,javascript,nodejs,typescript"
   />
   <p>● Outras ferramentas</p>
-  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://skillicons.dev/icons?i=git,wordpress" />
 </div>
 <br>
 
