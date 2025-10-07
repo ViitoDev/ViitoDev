@@ -9,6 +9,7 @@
 ---
 
 <div align="left" style="color: grey;">
+    <img src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" alt="gif coding" min-width="300px" max-width="300px" width="300px" align="right">
     <h2>🔧 Tecnologias e ferramentas</h2>
     <p>● Front-end</p>
     <img src="https://skillicons.dev/icons?i=html,css,scss" />
