@@ -37,6 +37,7 @@
 <div align="center"> 
   <h2 style="color: grey;">📈 Estatísticas do github</h2> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViitoDev&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViitoDev&layout=compact&theme=chartreuse-dark&border_radius=5">
 </div>
 
 ---
