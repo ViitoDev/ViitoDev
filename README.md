@@ -27,6 +27,8 @@
   <img
     src="https://skillicons.dev/icons?i=python,javascript,nodejs,typescript"
   />
+  <p>● Front-end</p>
+  <img src="https://skillicons.dev/icons?i=sqlite,mongodb" />
   <p>● Outras ferramentas</p>
   <img src="https://skillicons.dev/icons?i=git,wordpress" />
 </div>
