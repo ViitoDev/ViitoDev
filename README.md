@@ -37,14 +37,6 @@
 ---
 
 <div align="center"> 
-  <h2 style="color: grey;">📈 Estatísticas do github</h2> 
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ViitoDev&show_icons=true&theme=chartreuse-dark&count_private=true&border_radius=10"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViitoDev&layout=compact&theme=chartreuse-dark&border_radius=5">
-</div>
-
----
-
-<div align="center"> 
   <h2>✉ Entre em contato comigo:</h2>
   <a href="https://www.instagram.com/viitozin/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:joaovictorpiresdev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
