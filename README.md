@@ -31,7 +31,6 @@
   <img src="https://skillicons.dev/icons?i=git,wordpress" />
 </div>
 <br>
----
 
 <div align="center">
   <h2>📊 GitHub Stats</h2>
