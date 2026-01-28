@@ -9,8 +9,6 @@
   <p>● 📖 Estudando as linguagens : Python e Javascript</p>
 </div>
 
----
-
 <div align="left" style="color: grey">
   <h2 style="border-bottom: none">🔧 Tecnologias e ferramentas</h2>
   <img
