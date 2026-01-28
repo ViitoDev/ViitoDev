@@ -33,6 +33,17 @@
   <img src="https://skillicons.dev/icons?i=git,wordpress" />
 </div>
 <br>
+---
+
+<div align="center">
+  <h2>📊 GitHub Stats</h2>
+
+  <!-- Ranking A+, A, B+ etc -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ViitoDev&theme=github_dark" />
+
+  <!-- Linguagens -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ViitoDev&theme=github_dark" />
+</div>
 
 ---
 
